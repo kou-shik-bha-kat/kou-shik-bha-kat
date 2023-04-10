@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fakchauhan2&psig=AOvVaw2FYU7wg2L7fkvBtUcLHhgm&ust=1681230027920000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDI_4bcn_4CFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fakchauhan2&psig=AOvVaw2FYU7wg2L7fkvBtUcLHhgm&ust=1681230027920000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDI_4bcn_4CFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Koushik Bhakat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
