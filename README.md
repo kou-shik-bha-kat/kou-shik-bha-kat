@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science and Engineering.
-- 🌱 I’m currently learning Javascript,Java,React.
+- 🌱 I’m currently learning Javascript,Java,React,next.
 - 💬 Ask me about Web Dev
 - 📫 How to reach me: www.koushik2003@gmail.com
 - ⚡ Fun fact: I love Photography
